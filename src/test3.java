@@ -10,7 +10,7 @@ public class test3 {
 
     public static void main(String[] args) {
         test3 ttt = new test3();
-        ttt.show('a');// object is the parent class of all the classes in java.
+        ttt.show('a');// object is the parent class of all the classes in java.(automatic promotion)
         ttt.show("anjali");
         // output :- Object method and string method
     }
